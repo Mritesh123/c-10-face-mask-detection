@@ -1,0 +1,13 @@
+Go to visual studio
+
+then open the folder of source code 
+
+select the GUI.py
+
+run the program
+
+UI interface will be displayed 
+
+click on REAL TIME
+
+view the mask detection
